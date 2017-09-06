@@ -1,0 +1,15 @@
+$color:#000;
+#res {
+    border: 1px solid $color;
+}
+input{
+    border-radius: 50px;
+    background: pink;
+    border: 1px solid gold;
+}
+.divimg{
+    width:100px;
+    height:100px;
+    background: url(../img/尼尔.jpeg); 
+    background-size: 100% 100%;
+}
